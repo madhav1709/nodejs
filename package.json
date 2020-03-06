@@ -1,0 +1,24 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Notes app using Node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhav1709/nodejs.git"
+  },
+  "author": "Madhav Vengalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhav1709/nodejs/issues"
+  },
+  "homepage": "https://github.com/madhav1709/nodejs#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "validator": "^12.2.0",
+    "yargs": "^15.1.0"
+  }
+}
